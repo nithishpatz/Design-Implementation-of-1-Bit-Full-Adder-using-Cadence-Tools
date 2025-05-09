@@ -13,7 +13,7 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 
 ### Computer System
 - Minimum **4GB RAM** and a **multi-core processor**
-
+ 
 ## Procedure
 
 ### 1. Launch Cadence Virtuoso Environment:
@@ -32,7 +32,7 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 - Set up **input stimulus** and analyze the **output waveform**.
 
 ## Circuit Diagram
-![Screenshot 2025-03-28 193352](https://github.com/user-attachments/assets/08a3dce3-1de0-4f1e-b050-7c3569490edd)
+![exp 5](https://github.com/user-attachments/assets/add36293-4dbe-4f9c-acb0-7b2a749d457b)
 
 
 ## Truth Table for 1-Bit Full Adder
@@ -41,7 +41,7 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 
 ## Schematic Diagram
 ### 1. Schematic of 1-Bit Full Adder:
-![Screenshot 2025-04-11 142821](https://github.com/user-attachments/assets/f1ad2463-1f53-4cff-b844-1634ba94d46b)
+![exp 5](https://github.com/user-attachments/assets/fed1fb14-0a12-47eb-ba35-0f7fdbb25b6a)
 
 ![image](https://github.com/user-attachments/assets/1a962018-9d6b-4246-ab5f-424602551e87)
 
